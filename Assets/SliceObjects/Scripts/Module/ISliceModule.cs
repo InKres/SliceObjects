@@ -1,5 +1,4 @@
-﻿
-namespace SliceObjects.Module
+﻿namespace SliceObjects.Module
 {
     public interface ISliceModule
     {

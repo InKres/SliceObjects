@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 namespace SliceObjects.View
 {
-    public class SliceView : MonoBehaviour, ISliceView
+    public class SliceView : MonoBehaviour
     {
         public event Action OnButtonClick;
 
